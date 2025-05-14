@@ -1,4 +1,5 @@
 # Trabalho Etapa 2
+Gabriel Faria, Maisa Pires e Miguel Vieira
 
 ## Exercício 1: Modelo de Sistemas
 Questão prática: Descreva um sistema de streaming de vídeo utilizando:
